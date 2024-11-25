@@ -2,13 +2,13 @@
 Name          : Anusree Mohan
 Date          : 25-11-24
 Title         : To replace the elements of a 2D array with 5th prime number starting from the corresponding array element
-input		  : 1 2 3
-				4 5 7
-output		  : 11 11 13
-				17 17 19
+input	      : 1 2 3
+		4 5 7
+output	      : 11 11 13
+	        17 17 19
 
-				eg: arr[0][1] = 2
-				starting from 2, 5th prime number 11 ( 2,3,5,7,11,13,17,19...)
+		eg: arr[0][1] = 2
+		starting from 2, 5th prime number 11 ( 2,3,5,7,11,13,17,19...)
  */
 
 #include <stdio.h>
